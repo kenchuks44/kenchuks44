@@ -1,6 +1,4 @@
 ### Hi there 👋
-### I’m currently working on CI/CD
-### I’m currently learning DevOps
 ### I’m looking to collaborate on DevOps projects
 
 <!--
