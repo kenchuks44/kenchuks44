@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+### I am DevOps and Cloud Enthusiast
+
 ### I’m looking to collaborate on DevOps projects
 
 <!--
@@ -6,8 +9,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CI/CD
-- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on DevOps projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
