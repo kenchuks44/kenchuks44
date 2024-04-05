@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am DevOps and Cloud Enthusiast
+### I am DevOps and Cloud Engineer
 
 ### I’m looking to collaborate on DevOps projects
 
