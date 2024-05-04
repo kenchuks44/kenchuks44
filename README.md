@@ -10,13 +10,13 @@ I am Chukwuka, a Cloud and DevOps Engineer adept at crafting resilient and scala
 
 🔧 Technologies I work with:
 
-☁️ Cloud Platforms: AWS, Azure
-🛠️ DevOps: Docker, Kubernetes, Jenkins, ArgoCD, Terraform, Ansible, Prometheus, Grafana
+☁️ Cloud Platforms: AWS, Azure  
+🛠️ DevOps: Docker, Kubernetes, Jenkins, ArgoCD, Terraform, Ansible, Prometheus, Grafana  
 👨‍💻 Programming/Scripting: Python, Bash, JSON, YAML, CLI, Powershell
 
 🔗 Let's collaborate:
 
-👥 I'm open to participate in collaborative efforts focused on Cloud and DevOps related projects..
+👥 I'm open to participate in collaborative efforts focused on Cloud and DevOps related projects..  
 💡 Passionate about leveraging state-of-the-art technologiess to drive business success.
 
 🌱 Open to opportunities:
