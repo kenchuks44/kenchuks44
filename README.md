@@ -4,7 +4,9 @@ I am Chukwuka, a Cloud and DevOps Engineer adept at crafting resilient and scala
 
 🌐 My expertise:
 
-🚀 Proficient in designing, deploying, and managing cloud infrastructure on AWS and Azure.  💻 Experienced in creating CI/CD pipelines, automating deployments, and ensuring optimal system performance.  🛡️ Architecting and deploying secure and robust applications using Azure and AWS.
+🚀 Proficient in designing, deploying, and managing cloud infrastructure on AWS and Azure.  
+💻 Experienced in creating CI/CD pipelines, automating deployments, and ensuring optimal system performance.  
+🛡️ Architecting and deploying secure and robust applications using Azure and AWS.
 
 🔧 Technologies I work with:
 
